@@ -1,31 +1,30 @@
 {
   "basic_info": {
-    "name": "Davina Griss",
+    "name": "Lucas Cruz",
     "titles": [
       "Front-end Developer",
-      "Senior Data Engineer",
-      "Dev Team lead",
+      "QA Specialist",
       "Mobile App Developer"
     ],
     "socials": [
       {
         "icon": "mdi:linkedin",
-        "url": "https://www.linkedin.com/in/devmahmud"
+        "url": "https://www.linkedin.com/in/lucas-cruz-315231194/"
       },
       {
         "icon": "mdi:github",
-        "url": "https://github.com/devmahmud"
+        "url": "https://github.com/ludvikcruz"
       },
       {
-        "icon": "mdi:twitter",
-        "url": "https://twitter.com/expeliermers"
+        "icon": "mdi:instagram",
+        "url": "https://www.instagram.com/lucascruzdev/"
       }
     ]
   },
   "about_me": {
     "title": "About me",
     "greeting": "Hi",
-    "content": " 👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+    "content": " 👋 Hello! I'm Lucas Cruz, an enthusiastic Frontend Developer with a solid foundation in HTML, CSS, and JavaScript, acquired through a two-year degree in Technologies and Programming of Information Systems. Although I have not yet had formal work experience in the field, I completed a curricular internship as a QA Specialist in Atlanse.pt, where I developed a keen eye for detail and a strong understanding of software quality assurance principles. This experience has enriched my approach to frontend development, ensuring not only aesthetically pleasing but also functionally robust user interfaces. I have dedicated my time to building personal projects that showcase my ability to create attractive and responsive user interfaces. One of the projects I am most proud of is my band's official site (VoidWomb). I have a passion for interface design and user experience, and I'm always on the lookout for new technologies and methodologies to enhance my skills, like React and agile development. I am eager to contribute to a team that values innovation, quality, and continuous development, where I can learn, grow, and eventually lead projects that make a difference.",
     "image": "myProfile.jpg",
     "tech_stacks": ["devicon:angular", "devicon:react", "devicon:vuejs"]
   },
@@ -33,11 +32,11 @@
     "title": "projects",
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "VoidWomb Official Site",
+        "startDate": "2024",
+        "description": "The most expanded website I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
+          "",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
         "url": "https://github.com",
